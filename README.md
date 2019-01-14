@@ -15,11 +15,11 @@ git clone https://github.com/ESX-Org/esx_shops [esx]/esx_shops
 
 ### Manually
 - Download https://github.com/ESX-Org/esx_shops/archive/master.zip
-- Put it in the `[esx]` directory
+- Coloca na pasta `[esx]`
 
 ## Installation
-- Import `esx_shops.sql` to your database
-- Add this in your `server.cfg`:
+- Extrai `esx_shops.sql` na tua base de dados
+- Adiciona no teu `server.cfg`:
 
 ```
 start esx_shops
