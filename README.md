@@ -13,11 +13,11 @@ cd resources
 git clone https://github.com/ESX-Org/esx_shops [esx]/esx_shops
 ```
 
-### Manually
+### Manual
 - Download https://github.com/ESX-Org/esx_shops/archive/master.zip
 - Coloca na pasta `[esx]`
 
-## Installation
+## Instalação
 - Extrai `esx_shops.sql` na tua base de dados
 - Adiciona no teu `server.cfg`:
 
